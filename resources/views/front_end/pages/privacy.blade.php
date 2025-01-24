@@ -42,9 +42,8 @@
 
                     </li>
                     <li class="info_item">
-                        Payment Information:<strong> Collected securely via third-party payment processors for
-                            transactions (e.g., entry fees, withdrawals).
-                        </strong>
+                    <strong> Payment Information:</strong> Collected securely via third-party payment processors for
+                            transactions (e.g., entry fees, withdrawals).                        
                     </li>
                 </ul>
                 <h4 class="info_subHeading">1.2 Non-Personal Information

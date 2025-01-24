@@ -3472,7 +3472,7 @@ div#mySidenavs {
 }
 
 section.my-profile {
-  padding-block: 120px;
+  padding-block: 70px;
   background-color: #dda15e1a;
 }
 
@@ -5655,14 +5655,14 @@ h2.leagues_heading {
   display: flex;
   justify-content: center;
   gap: 30px;
+  flex-wrap:wrap;
 }
 
-.leagues_item {
-  width: 100%;
-  width: 45%;
+.leagues .leagues_item {
+  width: 20%;
 }
 .leagues  .leagues_wrapper {
-  max-width: 800px;
+  max-width: 1200px;
   width: 100%;
   margin: 0 auto;
 }
@@ -6178,4 +6178,25 @@ section#barista-team {
 }
 .col-sec form {
   text-align: center;
+}
+
+.leagues .leagues_list{
+  flex-wrap:wrap;
+}
+.matches-detail .leagues_inner {
+  display: block;
+  border: 2px solid #dda15e;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 4px;
+  margin-block: 20px;
+}
+.match-details-items .leagues_item {
+  width: 100%;
+  max-width: 23%;
+  list-style: none;
+}
+.match-details-items {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
 }

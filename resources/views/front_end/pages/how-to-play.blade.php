@@ -38,12 +38,11 @@
                     <div class="playingGuide_left">
                         <div class="playingGuide_img"></div>
                     </div>
-               </div>              
-             </div>
-
-                <!--section 2 -->
-                <div class="col-md-6 col-12">
-                 <div class="playingGuide_inner row-reverse playingGuide_inner--two">
+                </div>
+            </div>
+            <!--section 2 -->
+            <div class="col-md-6 col-12">
+                <div class="playingGuide_inner row-reverse playingGuide_inner--two">
                     <div class="playingGuide_right">
                         <div class="playingGuide_content">
                             <h3 class="playingGuide_title">
@@ -63,12 +62,11 @@
                     <div class="playingGuide_left">
                         <div class="playingGuide_img"></div>
                     </div>
-                  </div>
                 </div>
-                
-                <!--section 3 -->
-                <div class="col-md-6 col-12">
-                  <div class="playingGuide_inner playingGuide_inner--three">
+            </div>
+            <!--section 3 -->
+            <div class="col-md-6 col-12">
+                <div class="playingGuide_inner playingGuide_inner--three">
                     <div class="playingGuide_right">
                         <div class="playingGuide_content">
                             <h3 class="playingGuide_title">
@@ -81,7 +79,8 @@
 
                                 </li>
                                 <li class="playingGuide_item">
-                                    <strong>Team Composition: </strong> Select 11 players, adhering to the following guidelines:
+                                    <strong>Team Composition: </strong> Select 11 players, adhering to the following
+                                    guidelines:
                                 </li>
                             </ul>
                             <ul class="playingGuide_subList">
@@ -114,10 +113,10 @@
                     <div class="playingGuide_left">
                         <div class="playingGuide_img"></div>
                     </div>
-                  </div>
                 </div>
-                <!--section 4 -->
-                <div class=" col-md-6 col-12">
+            </div>
+            <!--section 4 -->
+            <div class=" col-md-6 col-12">
                 <div class="playingGuide_inner row-reverse playingGuide_inner--four">
                     <div class="playingGuide_right">
                         <div class="playingGuide_content">
@@ -156,9 +155,9 @@
                         <div class="playingGuide_img"></div>
                     </div>
                 </div>
-                 </div>
-                <!--section 5 -->
-                <div class=" col-md-6 col-12">
+            </div>
+            <!--section 5 -->
+            <div class=" col-md-6 col-12">
                 <div class="playingGuide_inner playingGuide_inner--five">
                     <div class="playingGuide_right">
                         <div class="playingGuide_content">
@@ -197,9 +196,9 @@
                         <div class="playingGuide_img"></div>
                     </div>
                 </div>
-              </div>
-                <!--section 6 -->
-                <div class=" col-md-6 col-12">
+            </div>
+            <!--section 6 -->
+            <div class=" col-md-6 col-12">
                 <div class="playingGuide_inner row-reverse playingGuide_inner--six">
                     <div class="playingGuide_right">
                         <div class="playingGuide_content">
@@ -233,9 +232,9 @@
                         <div class="playingGuide_img"></div>
                     </div>
                 </div>
-                 </div>
-                <!--section 7 -->
-                <div class="col-md-6 col-12">
+            </div>
+            <!--section 7 -->
+            <div class="col-md-6 col-12">
                 <div class="playingGuide_inner playingGuide_inner--seven">
                     <div class="playingGuide_right">
                         <div class="playingGuide_content">
@@ -254,20 +253,17 @@
 
                                 <li class="playingGuide_item">
                                     Withdraw your earnings securely or use them to join more contests.
-
                                 </li>
-
                             </ul>
-
                         </div>
                     </div>
                     <div class="playingGuide_left">
                         <div class="playingGuide_img"></div>
                     </div>
-                  </div>
                 </div>
-                <!--section 8 -->
-                <div class="col-md-6 col-12">
+            </div>
+            <!--section 8 -->
+            <div class="col-md-6 col-12">
                 <div class="playingGuide_inner row-reverse playingGuide_inner--eight">
                     <div class="playingGuide_right">
                         <div class="playingGuide_content">
@@ -292,16 +288,15 @@
                                 </li>
 
                             </ul>
-
                         </div>
                     </div>
                     <div class="playingGuide_left">
                         <div class="playingGuide_img"></div>
                     </div>
                 </div>
-                </div>
-                <!--section 9 -->
-                <div class="col-12">
+            </div>
+            <!--section 9 -->
+            <div class="col-12">
                 <div class="playingGuide_inner playingGuide_inner--nine">
                     <div class="playingGuide_right">
                         <div class="playingGuide_content">
@@ -325,7 +320,6 @@
                     <div class="playingGuide_left">
                         <div class="playingGuide_img"></div>
                     </div>
-                </div>
                 </div>
             </div>
         </div>

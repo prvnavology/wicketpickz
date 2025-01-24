@@ -81,9 +81,11 @@
   .navbar .custom-btn {
     margin-bottom: 10px;
   }
+
   .booking-form {
     padding: 45px;
   }
+
   .contact-section .container {
     width: auto;
     margin-right: 10px;
@@ -99,6 +101,10 @@
   .basket_leagues-inner h2 {
     font-size: 32px;
     margin-bottom: 48px;
+  }
+
+  .leagues .leagues_item {
+    width: 20%;
   }
 }
 
@@ -329,16 +335,17 @@
     width: 49%;
     margin-bottom: 16px;
   }
-html{
-  font-size: 15px;
-}
+
+  html {
+    font-size: 15px;
+  }
 }
 
 @media screen and (max-width: 991px) {
   .avatar .dropdown {
     position: static;
     margin-top: 10px;
-}
+  }
 
 }
 
@@ -347,9 +354,11 @@ html{
     height: 40px;
     width: 110px;
   }
-  html{
+
+  html {
     font-size: 14px;
   }
+
   #login-signup h3 {
     font-size: 24px;
     margin-bottom: 20px;
@@ -408,7 +417,7 @@ html{
 
   .leagues .leagues_item {
     width: 100%;
-    max-width: 100%;
+    max-width: 45%;
   }
 
   .menu-block-wrap,
@@ -421,7 +430,7 @@ html{
     padding: 24px;
   }
 
- 
+
   .playingGuide_right,
   .playingGuide_left {
     width: 100%;
@@ -436,7 +445,7 @@ html{
   }
 
   .playingGuide_content {
-    padding:20px 0;
+    padding: 20px 0;
   }
 
   .footer-left {
@@ -544,7 +553,12 @@ html{
   .back-btn a {
     padding: 7px 20px;
     margin: 0 0 16px;
-}
+  }
+
+  .leagues .leagues_item {
+    width: 100%;
+    max-width: 100%;
+  }
 
   .back-btn a svg {
     width: 16px;
@@ -561,7 +575,6 @@ html{
 
   .navbar .container {
     padding: 10px 20px;
-    height: 90vh;
   }
 
   .bannerLogin_wrapper {
@@ -571,6 +584,7 @@ html{
   .joinleagues h3 {
     margin-bottom: 10px;
   }
+
   .footer_blcks ul {
     justify-content: center;
   }
